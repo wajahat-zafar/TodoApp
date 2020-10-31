@@ -1,0 +1,51 @@
+.div{
+    
+    
+    text-align: center;
+  
+}
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    color: royalblue;
+}
+
+body{
+    background-image: url("https://cdn1.vectorstock.com/i/1000x1000/13/40/todo-list-seamless-pattern-universal-background-vector-7561340.jpg")
+}
+.listing{
+    text-align: center;
+    list-style-type: none;
+    
+}
+
+.btn1{
+    position: relative;
+    left: 10px;
+    display: inline-block;
+    border-radius: 1cm;
+    color: rgb(61, 60, 65);
+}
+.btn2{
+    position: relative;
+    left: 15px;
+    display: inline-block;
+    border-radius: 1cm;
+    color: rgb(61, 60, 65);
+
+}
+
+.Text{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.inp{
+    height: 25px;
+    box-shadow: 2px 2px 4px rgb(44, 44, 44);
+}
+.Mbtn{
+    height: 25px;
+    border-radius: 0.1cm;
+    text-shadow: 1px 1px 3px 3px;
+}
